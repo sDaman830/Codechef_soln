@@ -1,0 +1,1 @@
+{"name":"Local: two_ranges","url":"/Users/damanpreetsinghghatoura/cc/Codechef_soln/two_ranges.cpp","tests":[{"id":1675916216446,"input":"4\n1 3 5 5\n3 8 2 5\n1 8 4 6\n5 5 5 5","output":"4\n7\n8\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/damanpreetsinghghatoura/cc/Codechef_soln/two_ranges.cpp","group":"local","local":true}
